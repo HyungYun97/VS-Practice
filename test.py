@@ -10,3 +10,4 @@ for c in alphabets:
 # alphabets라는 문자열(실제로는 향후에 리스트 등의 자료형을 배우게 되면 iterable 객체) 객체를 
 # 앞에서 부터 순차적으로 하나씩 c라는 변수에 담아서,
 # for 반복문의 body에서 사용하라   
+# 되고있는건가
